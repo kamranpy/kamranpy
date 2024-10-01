@@ -11,6 +11,8 @@ I'm a passionate Full Stack Developer with experience in building dynamic and re
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+
 
 ## 🌍 Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/kamran-ibrahim/)
